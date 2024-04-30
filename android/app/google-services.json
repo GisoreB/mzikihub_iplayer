@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "972032257860",
+    "project_id": "mzikihub-iplayer",
+    "storage_bucket": "mzikihub-iplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972032257860:android:89cb6d37d28269019eb111",
+        "android_client_info": {
+          "package_name": "com.example.music_player"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoKIwEJ3HR5_DSpp3uMK9qTuYD3UpqwKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
